@@ -16,6 +16,11 @@ body {
     margin-right: auto;
 }
 
+.result img {
+    width:auto;
+    height:100%;
+}
+
 .button {
     margin-top: 20px;
 }
